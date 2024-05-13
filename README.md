@@ -1,4 +1,4 @@
-# Drupal Web Scraper with Puppeteer
+# <div align="center">Drupal Web Scraper with Puppeteer</div>
 
 This is a powerful web scraping tool designed specifically for Drupal websites, utilizing Puppeteer—a Node.js library for controlling headless browsers—to scrape all webpages and search for a specific word or pattern. The results are then saved to a text file for easy reference and analysis.
 
