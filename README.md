@@ -12,9 +12,18 @@ This is a powerful web scraping tool designed specifically for Drupal websites, 
 
 - Node.js (Install from [nodejs.org](https://nodejs.org/))
 - Puppeteer (Automatically installed via npm)
+- dotenv (Automatically installed via npm)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/drupal-web-scraper.git
+   
+2. Navigate to the project directory
+    ```bash
+   cd drupal-web-scraper
+    
+4. Install dependencies:
+    ```bash
+   npm install dotenv puppeteer
