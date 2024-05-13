@@ -27,3 +27,22 @@ This is a powerful web scraping tool designed specifically for Drupal websites, 
 4. Install dependencies:
     ```bash
    npm install dotenv puppeteer
+
+## Usage
+
+1. Customize the search parameters:
+  - Open index.js in a text editor.
+  - Update the URL in the retrieveLinks function.
+  - Update the second argument in wordSearch function with the word or pattern you want to search for.
+
+2. Run the scraper:
+   ```bash
+   node index.js
+
+3. View results:
+  - The results will be saved to webpage_scan_results.txt in the project directory.
+
+## Contributing
+Contributions are welcome! If you encounter issues, have ideas for improvements, or want to add new features, please open an issue or submit a pull request.
+
+   
