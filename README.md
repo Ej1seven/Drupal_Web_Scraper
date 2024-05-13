@@ -18,7 +18,7 @@ This is a powerful web scraping tool designed specifically for Drupal websites, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drupal-web-scraper.git
+   git clone https://github.com/Ej1seven/Drupal_Web_Scraper.git
    
 2. Navigate to the project directory
     ```bash
