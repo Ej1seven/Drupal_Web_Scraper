@@ -1,6 +1,6 @@
 # <div align="center">Drupal Web Scraper with Puppeteer</div>
 
-This is a powerful web scraping tool designed specifically for Drupal websites, utilizing Puppeteer—a Node.js library for controlling headless browsers—to scrape all webpages and search for a specific word or pattern. The results are then saved to a text file for easy reference and analysis. For a detailed, step-by-step guide, please refer to the following article: [Web Scraping Drupal Websites with Node.js and Puppeteer]([https://website-name.com](https://codebuff.hashnode.dev/web-scraping-drupal-websites-with-nodejs-and-puppeteer)) . If you found this repository useful, please consider giving it a star ⭐ on GitHub. This helps to promote the project and show your support.
+This is a powerful web scraping tool designed specifically for Drupal websites, utilizing Puppeteer—a Node.js library for controlling headless browsers—to scrape all webpages and search for a specific word or pattern. The results are then saved to a text file for easy reference and analysis. For a detailed, step-by-step guide, please refer to the following article: [Web Scraping Drupal Websites with Node.js and Puppeteer](https://website-name.com](https://codebuff.hashnode.dev/web-scraping-drupal-websites-with-nodejs-and-puppeteer) . If you found this repository useful, please consider giving it a star ⭐ on GitHub. This helps to promote the project and show your support.
 
 
 ## Features
